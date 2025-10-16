@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="36dp"
+    android:viewportWidth="32"
+    android:viewportHeight="36">
+    <!-- Head as an oval path -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#23223A"
+        android:strokeWidth="2"
+        android:pathData="M8,12 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0"/>
+    <!-- Body/shoulders -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#23223A"
+        android:strokeWidth="2"
+        android:pathData="M4,30c0,-6 24,-6 24,0"/>
+    <!-- Side arcs for groups -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#23223A"
+        android:strokeWidth="2"
+        android:pathData="M2,17a10,10 0 0 1 28,0"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#23223A"
+        android:strokeWidth="2"
+        android:pathData="M30,35a10,10 0 0 0-28,0"/>
+</vector>

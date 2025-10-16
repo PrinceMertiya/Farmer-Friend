@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Sun Circle -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M12,7a5,5 0 1,0 0,10a5,5 0 1,0 0,-10z"/>
+
+    <!-- Top ray -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M11,1h2v4h-2z"/>
+
+    <!-- Bottom ray -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M11,19h2v4h-2z"/>
+
+    <!-- Left ray -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M1,11h4v2H1z"/>
+
+    <!-- Right ray -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M19,11h4v2h-4z"/>
+
+    <!-- Top-left ray -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M4.22,4.22l1.42,-1.42l2.83,2.83l-1.42,1.42z"/>
+
+    <!-- Top-right ray -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M19.78,4.22l-1.42,-1.42l-2.83,2.83l1.42,1.42z"/>
+
+    <!-- Bottom-left ray -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M4.22,19.78l1.42,1.42l2.83,-2.83l-1.42,-1.42z"/>
+
+    <!-- Bottom-right ray -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M19.78,19.78l-1.42,1.42l-2.83,-2.83l1.42,-1.42z"/>
+</vector>

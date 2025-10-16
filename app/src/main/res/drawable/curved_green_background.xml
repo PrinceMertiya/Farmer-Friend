@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Gradient background with limited height -->
+    <item
+        android:height="300dp"
+        android:gravity="top">   <!-- Align shape to bottom -->
+
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:startColor="#C6E000"
+                android:endColor="#5F7700"
+                android:type="linear" />
+            <corners
+                android:bottomLeftRadius="230dp"
+                android:bottomRightRadius="230dp" />
+        </shape>
+    </item>
+
+</layer-list>

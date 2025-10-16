@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="nav_selected">#4CAF50</color>
+    <color name="nav_hover">#66BB6A</color>
+    <color name="nav_default">#A5D6A7</color>
+    <color name="custom_color">#02542D</color>
+    <color name="nav_item_icon_color">#02542D</color>
+    <color name="Electricity">#596EEF</color>
+    <color name="Gas">#F6869E</color>
+    <color name="Water">#28D5B3</color>
+
+</resources>

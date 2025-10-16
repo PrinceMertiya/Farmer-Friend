@@ -1,0 +1,36 @@
+<resources>
+    <!-- Define the custom style for SearchView -->
+    <style name="CustomSearchView" parent="Widget.Material3.SearchView">
+        <!-- Set the text color for the query text -->
+        <item name="android:textColor">#000000</item>
+
+    </style>
+    <style name="BottomNavigationViewStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconTint">@color/white</item>
+        <item name="itemTextColor">@color/black</item>
+
+
+
+    </style>
+    <style name="RoundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item> <!-- Adjust corner radius -->
+    </style>
+
+
+    <style name="CustomSearchViewStyle">
+        <item name="android:textColor">#000000</item> <!-- Set search text color to black -->
+    </style>
+
+
+    <style name="CustomEditTextTheme" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:textColorHint">#757575</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+
+
+
+
+</resources>

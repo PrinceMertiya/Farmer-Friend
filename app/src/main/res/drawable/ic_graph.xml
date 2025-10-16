@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+android:width="36dp"
+android:height="33dp"
+android:viewportWidth="36"
+android:viewportHeight="33">
+
+<!-- Rounded rectangle background -->
+<path
+    android:pathData="M4,8
+                          Q4,4 8,4
+                          L28,4
+                          Q32,4 32,8
+                          L32,25
+                          Q32,29 28,29
+                          L8,29
+                          Q4,29 4,25 Z"
+    android:strokeWidth="2.5"
+    android:strokeColor="#222222"
+    android:fillColor="@android:color/transparent"
+    android:strokeLineCap="round"
+    android:strokeLineJoin="round" />
+
+<!-- Trend line -->
+<path
+    android:pathData="M9,22 L15,16 L21,21 L27,11"
+    android:strokeWidth="2.5"
+    android:strokeColor="#222222"
+    android:fillColor="@android:color/transparent"
+    android:strokeLineJoin="round"
+    android:strokeLineCap="round" />
+
+<!-- Outer dot/notification (converted from circle) -->
+<path
+    android:pathData="M31,7
+                          m-2,0
+                          a2,2 0 1,0 4,0
+                          a2,2 0 1,0 -4,0"
+    android:fillColor="#222222"/>
+</vector>
