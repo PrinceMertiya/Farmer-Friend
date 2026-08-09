@@ -60,38 +60,26 @@ through a simple and farmer-friendly mobile application.
 
 </p>
 
-<p align="center">
-  ▶️ <b>Click the image above to watch the Farmer Friend demo</b>
-</p>
-
 ### 🎬 Demo Flow
 
 ```text
-Login / Registration
-        ↓
-Home Dashboard
-        ↓
-Weather Information
-        ↓
-Crop Detection
-        ↓
-AI Disease Analysis
-        ↓
-Detailed Results
-        ↓
-Recommended Remedies
-        ↓
-Market Module
-        ↓
-Labour Module
-        ↓
-User Profile
-```
-
-> 📌 Upload the demo video to YouTube first, then replace
-> `YOUR_YOUTUBE_VIDEO_ID` with your actual YouTube video ID.
-
----
+Landing Page
+      ↓
+Dashboard
+      ↓
+Repository Selection
+      ↓
+Repository Analysis
+      ↓
+Repository Explorer
+      ↓
+Code Viewer
+      ↓
+AI Repository Chat
+      ↓
+Architecture Visualization
+      ↓
+Code Insights
 
 # ✨ Key Features
 
