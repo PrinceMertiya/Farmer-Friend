@@ -54,9 +54,7 @@ through a simple and farmer-friendly mobile application.
 
 <a href="https://github.com/user-attachments/assets/ac37b127-6cc8-4ffb-a6c0-dfb0ed743f02">
 
-<img src="https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg"
-     width="800"
-     alt="Farmer Friend Demo"/>
+▶️ <b>Watch CodeSage Project Demo</b>
 
 </a>
 
