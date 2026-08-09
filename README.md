@@ -50,7 +50,6 @@ through a simple and farmer-friendly mobile application.
 
 # 🎥 Project Demo
 
-<p align="center">
 
 <a href="https://github.com/user-attachments/assets/ac37b127-6cc8-4ffb-a6c0-dfb0ed743f02">
 
